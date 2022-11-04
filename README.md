@@ -1,2 +1,2 @@
 # Django
-Creating DJango Project
+Creating Django Project
